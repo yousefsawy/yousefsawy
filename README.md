@@ -8,7 +8,7 @@ I have shipped code to production at scale during my internships.
 * **Brightskies:** Embedded SW Validation Intern (Python, Jenkins).
 * **_VOIS:** Software Engineering Intern (React, AR.js).
 
-> **🏢 Procore Context:**
+> **🏢 Context:**
 > You can view my contributions at Procore here:
 > 👉 **[My Procore GitHub Profile](https://github.com/YousefElsawy-1)**
 
