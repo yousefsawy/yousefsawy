@@ -6,7 +6,7 @@ I am a senior **Computer Engineering** student at **Cairo University** (Class of
 I have shipped code to production at scale during my internships.
 * **Procore:** Software Engineering Intern (Ruby on Rails, React, AWS).
 * **Brightskies:** Embedded SW Validation Intern (Python, Jenkins).
-* **_VOIS:** Software Engineering Intern (React, AR.js).
+* **Vodafone Intelligent Solutions:** Software Engineering Intern (React, AR.js).
 
 > **🏢 Context:**
 > You can view my contributions at Procore here:
